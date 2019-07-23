@@ -1,1 +1,9 @@
+add 20190723
+monday 1
+tuesday
+wednesday
+thursday
+friday
+saturday
+sunday  7
 test rm
