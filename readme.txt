@@ -4,5 +4,6 @@ test3`:
 cool date!
 create new feature1
 new branch feature1
+add dev test merge
 
 
